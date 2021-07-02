@@ -1,4 +1,4 @@
-# React Örnek Todo Uygulaması
+# React Örnek E-ticaret Uygulaması
 > React giriş sunumu sonrasındaki workshop'da yapılan örnek eticaret uygulamasıdır. Geliştirme aşamalarının kolay
 takibi amacıyla her aşama için branchler oluşturulmuştur.
 
