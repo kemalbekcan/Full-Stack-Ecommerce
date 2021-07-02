@@ -1,9 +1,6 @@
 # React Örnek E-ticaret Uygulaması
-> React giriş sunumu sonrasındaki workshop'da yapılan örnek eticaret uygulamasıdır. Geliştirme aşamalarının kolay
-takibi amacıyla her aşama için branchler oluşturulmuştur.
 
 ## Kurulum
-[![npm version](https://badge.fury.io/js/react-todo-example.svg)](https://badge.fury.io/js/react-todo-example)
 
 - Repo'yu klonla: `git clone https://github.com/kemalbekcan/Full-Stack-Ecommerce.git`
 
