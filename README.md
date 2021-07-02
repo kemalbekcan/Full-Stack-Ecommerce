@@ -1,5 +1,5 @@
 # React Örnek Todo Uygulaması
-> React giriş sunumu sonrasındaki workshop'da yapılan örnek todo uygulamasıdır. Geliştirme aşamalarının kolay
+> React giriş sunumu sonrasındaki workshop'da yapılan örnek eticaret uygulamasıdır. Geliştirme aşamalarının kolay
 takibi amacıyla her aşama için branchler oluşturulmuştur.
 
 ## Kurulum
@@ -11,8 +11,8 @@ takibi amacıyla her aşama için branchler oluşturulmuştur.
 
 ## Login
 > Giriş bilgisi:
- - username : volkan
- - password : demo
+ - username : kemalbekcan@gmail.com
+ - password : 123
  
 ## React Hakkında
 > React facebook tarafından oluşturulan açık kaynak kodlu bir JavaScript kütüphanesidir. Kullanıcı deneyimi iyileştirmeyi hedefler, MVC 'nin View katmanına odaklanır.
