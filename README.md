@@ -3,6 +3,7 @@
 ## Kurulum
 
 - Repo'yu klonla: `git clone https://github.com/kemalbekcan/Full-Stack-Ecommerce.git`
+- Örnek proje için <a href="https://kemalproje.herokuapp.com/">Web Sitesi</a> gidebilirsiniz.
 
 ## Login
 > Giriş bilgisi:
