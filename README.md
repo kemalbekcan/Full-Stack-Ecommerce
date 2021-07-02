@@ -5,9 +5,7 @@ takibi amacıyla her aşama için branchler oluşturulmuştur.
 ## Kurulum
 [![npm version](https://badge.fury.io/js/react-todo-example.svg)](https://badge.fury.io/js/react-todo-example)
 
-- [En güncel sürümü indir.](https://github.com/volkansengul/react-example-todo/archive/master.zip)
-- Repo'yu klonla: `git clone https://github.com/volkansengul/react-example-todo.git`
-- [npm] ile yükle (https://www.npmjs.com/package/react-todo-example): `npm install react-todo-example`
+- Repo'yu klonla: `git clone https://github.com/kemalbekcan/Full-Stack-Ecommerce.git`
 
 ## Login
 > Giriş bilgisi:
