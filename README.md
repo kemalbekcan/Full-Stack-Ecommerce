@@ -17,8 +17,6 @@ takibi amacıyla her aşama için branchler oluşturulmuştur.
 ## React Hakkında
 > React facebook tarafından oluşturulan açık kaynak kodlu bir JavaScript kütüphanesidir. Kullanıcı deneyimi iyileştirmeyi hedefler, MVC 'nin View katmanına odaklanır.
 
-> _[React Giriş Sunumu - slides.com/volkansengul/reactjs-giris](http://slides.com/volkansengul/reactjs-giris/fullscreen#/)_
-
 > _[React - facebook.github.io/react](http://facebook.github.io/react)_
 
 ### Bazı yardımcı linkler:
@@ -28,10 +26,3 @@ takibi amacıyla her aşama için branchler oluşturulmuştur.
 * [Blog](http://facebook.github.io/react/blog/)
 * [React GitHub Reposu](https://github.com/facebook/react)
 * [Destek](http://facebook.github.io/react/support.html)
-
-
-### Ekran Görüntüsü
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kenangundogan/react-example-todo/master/screenshout/todo-screen-shout.png"></a>
-</p>
