@@ -12,9 +12,9 @@
 
 ## Sipariş
 > Kredi kartı bilgisi:
- - şifre : 4242 4242 4242 4242
- - ay/yıl : 12/23 
- - cvc : 123
+ - Şifre : 4242 4242 4242 4242
+ - Ay/Yıl : 12/23 
+ - CVC : 123
  
 ## React Hakkında
 > React facebook tarafından oluşturulan açık kaynak kodlu bir JavaScript kütüphanesidir. Kullanıcı deneyimi iyileştirmeyi hedefler, MVC 'nin View katmanına odaklanır.
