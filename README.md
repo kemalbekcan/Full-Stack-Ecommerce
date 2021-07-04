@@ -11,7 +11,7 @@
  - password : 123
 
 ## Sipariş
--> Kredi kartı bilgisi:
+> Kredi kartı bilgisi:
  - şifre : 4242 4242 4242 4242
  - ay/yıl : 12/23 
  - cvc : 123
